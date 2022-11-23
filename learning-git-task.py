@@ -1,6 +1,6 @@
 shop_list = {
     "piekarnia": ["chleb", "bułki", "pączek", "bagetka"],
-    "warzywniak": ["marchew", "seler", "rukola"]
+    "warzywniak": ["marchew", "seler", "rukola", "ogórek"]
 }
 sum = 0
 for name, product_list in shop_list.items():
